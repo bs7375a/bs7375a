@@ -1,3 +1,8 @@
+# Problem Set 1 
+# Name: Boren Song
+# Time Spent: 1 hour
+# Last Modified: Nov 25, 2019
+
 import sys
  
 sys.setrecursionlimit(1000000000)
