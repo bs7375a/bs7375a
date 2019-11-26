@@ -38,6 +38,7 @@ def main():
 	sys.setrecursionlimit(2000)
 	d=D_per(name="sd",years_services=4,company="ups",is_drone=True,zip_codes='20013')
 	d.recur(['20016','20015','20013'])
+	print("set up")
 if __name__ == '__main__':
 	main()
 
