@@ -45,6 +45,7 @@ def main():
 	d.recur(['20016','20015','20013'])
 	print("set up")
 	print("finish 123123")
+	print("1234")
 if __name__ == '__main__':
 	main()
 
